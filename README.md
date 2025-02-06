@@ -100,10 +100,12 @@ In this section, I will outline data analytics projects and provide a brief over
 
 #### Universiti Teknologi Malaysia, Johor:
 Master's of Philosophy in Geotechnical Engineering - MPhil. Geotechnical Engineering,
+
 Jan 2021 - October 2023
 
 #### Iowa State University, Iowa:
 Bachelor's Degree of Science in Geology,
+
 Jan 2018 - Aug 2020
 
 ## Certificates
