@@ -11,7 +11,7 @@ I have also attached my Curriculum Vitae (CV) [here](https://github.com/syukrifa
 This is a repository to showcase my skills, share projects and track my progress in the Data Analytics/Data Science related topics.
 
 ## Table of Contents
-- [About]
+- [About](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#about-me)
 - [Portfolio Projects]
   - Python
     - [Analysis of the Factors that can Contribute to Success for a Movie]
