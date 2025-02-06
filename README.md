@@ -6,7 +6,7 @@ During my studies, I have honed my ability to work with complex structured data 
 
 In my free time, I enjoying exploring new programming languages in order to broaden my knowledge about other programming knowledges such as Java, C++ and many more. Moreover, I enjoy exploring new data analysis tools and techniques, and I am always looking for oppportunities to expand my knowledges and skills. Whether working on a team or indipendently, I am driven by thrill of discovering new insightsand the satisfaction of using data to solve complex problems.
 
-I have also attached my Curriculum Vitae (CV) [here]
+I have also attached my Curriculum Vitae (CV) [here](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/Syukri%20Fadzil%20CV.pdf).
 
 This is a repository to showcase my skills, share projects and track my progress in the Data Analytics/Data Science related topics.
 
