@@ -24,11 +24,7 @@ This is a repository to showcase my skills, share projects and track my progress
     - [Legendary Pokémon Data Analysis]
   - Excel / Google Sheet
   - Tableau
-
-
-
-
-- [Education]
+- [Education](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#education)
 - [Certificates]
 - [Contact]
 
