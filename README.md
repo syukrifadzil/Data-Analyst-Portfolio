@@ -25,7 +25,7 @@ This is a repository to showcase my skills, share projects and track my progress
   - Excel / Google Sheet
   - Tableau
 - [Education](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#education)
-- [Certificates]
+- [Certificates](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#certificates)
 - [Contact]
 
 ## Portfolio Projects
