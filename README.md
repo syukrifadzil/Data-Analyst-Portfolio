@@ -32,7 +32,7 @@ This is a repository to showcase my skills, share projects and track my progress
 In this section, I will outline data analytics projects and provide a brief overview of the technology stack used to address each case.
 
 ### Analysis of the Factors that can Contribute to Success for a Movie
-**Code:** ['Analysis of the Factors that can Contribute to Success for a Movie.ipynb']
+**Code:** ['Analysis of the Factors that can Contribute to Success for a Movie.ipynb'](https://github.com/syukrifadzil/Portfolio_Projects/blob/main/Analysis%20on%20Factors%20that%20can%20Contribute%20to%20Success%20for%20a%20Movie.ipynb)
 
 **Goal:** To determine what factors contribute the most to a movie's success.
 
@@ -45,7 +45,7 @@ In this section, I will outline data analytics projects and provide a brief over
 **Results:** Through Python functions, the analysis revealed that votes and budget had the strongest correlation with gross earnings, while the production company showed no significant correlation.
 
 ### Analysis for an Electric Store Sales in 2019
-**Code:** ['Analysis for an Electric Store Sales in 2019.ipynb']
+**Code:** ['Analysis for an Electric Store Sales in 2019.ipynb'](https://github.com/syukrifadzil/Portfolio_Projects/blob/main/Analysis%20for%20an%20Electric%20Store%20Sales%20in%202019%20.ipynb)
 
 **Goal:** To analyze the store's sales history, extract insights on its performance, and identify potential areas for improvement.
 
@@ -58,7 +58,7 @@ In this section, I will outline data analytics projects and provide a brief over
 **Results:** Python functions were used to calculate and visually present sales data by month, city, and the most commonly sold items. Additionally, an analysis was conducted to determine the reasons behind the high sales frequency of these items, providing valuable insights.
 
 ### Simple Mobile Game
-**Code:** ['Simple Mobile Game.ipynb']
+**Code:** ['Simple Mobile Game.ipynb'](https://github.com/syukrifadzil/Portfolio_Projects/blob/main/Simple%20Mobile%20Game%20.ipynb)
 
 **Goal:** To create a simple flappy bird type of game.
 
@@ -71,7 +71,7 @@ In this section, I will outline data analytics projects and provide a brief over
 
 
 ### Covid-19 Data Exploration
-**Code:** ['COVID-19 Portfolio Project.sql']
+**Code:** ['COVID-19 Portfolio Project.sql'](https://github.com/syukrifadzil/Portfolio_Projects/blob/main/Covid_19_Data_Exploration.sql)
 
 **Description:** The dataset includes records of COVID-19 cases, deaths, and vaccination data by country from 2020 to 2021. The project involves data loading, cleaning, preprocessing, and exploratory data analysis (EDA).
 
@@ -80,7 +80,7 @@ In this section, I will outline data analytics projects and provide a brief over
 **Technology:** Microsoft SQL Server.
 
 ### Nashville Housing Data Exploration
-**Code:** ['Nashville Housing Data Exploration.sql']
+**Code:** ['Nashville Housing Data Exploration.sql'](https://github.com/syukrifadzil/Portfolio_Projects/blob/main/Nashville%20Housing%20Data%20Analysis.sql)
 
 **Description:** The dataset consists of houses sold in Nashville between 2013 and 2019. The project involves data loading, cleaning, and preprocessing.
 
@@ -91,7 +91,7 @@ In this section, I will outline data analytics projects and provide a brief over
 
 
 ### Legendary Pokémon Analysis
-**Code:** ['Legendary Pokémon Data Analysis']
+**Code:** ['Legendary Pokémon Data Analysis'](https://github.com/syukrifadzil/Portfolio_Projects/blob/main/Legendary%20Pokémon%20Data%20Analysis.ipynb)
 
 **Description:** The dataset features a list of Pokémon, including their characteristics such as attack, defense, type, and size. The project involves data loading, cleaning, exploratory data analysis (EDA), and examining the characteristics of different Pokémon.
 
