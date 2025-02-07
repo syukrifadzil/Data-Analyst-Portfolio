@@ -26,7 +26,7 @@ This is a repository to showcase my skills, share projects and track my progress
   - Tableau
 - [Education](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#education)
 - [Certificates](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#certificates)
-- [Contact]
+- [Contact](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#contacts)
 
 ## Portfolio Projects
 In this section, I will outline data analytics projects and provide a brief overview of the technology stack used to address each case.
