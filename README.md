@@ -4,7 +4,7 @@ Hi, I'm Muhammad Syukri. I prefer to be called Syukri. I have an analytical back
 
 During my studies, I have honed my ability to work with complex structured data and developed a keen eye for identifying patterns and trends. I also gained experiences in laboratory techniques, data managemnet skills, and statistical analysis, which I believe will be valuable assets if in the future I was given an opportunity to be a data specialist.
 
-In my free time, I enjoying exploring new programming languages in order to broaden my knowledge about other programming knowledges such as Java, C++ and many more. Moreover, I enjoy exploring new data analysis tools and techniques, and I am always looking for oppportunities to expand my knowledges and skills. Whether working on a team or indipendently, I am driven by thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+In my free time, I enjoying exploring new programming languages in order to broaden my knowledge about other programming knowledges such as Java, C++ and many more. Moreover, I enjoy exploring new data analysis tools and techniques, and I am always looking for oppportunities to expand my knowledges and skills. Whether working on a team or independently, I am driven by thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 I have also attached my Curriculum Vitae (CV) [here](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/Syukri%20Fadzil%20CV.pdf).
 
