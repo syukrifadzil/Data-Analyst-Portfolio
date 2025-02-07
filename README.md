@@ -16,12 +16,12 @@ This is a repository to showcase my skills, share projects and track my progress
   - Python
     - [Analysis of the Factors that can Contribute to Success for a Movie](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#analysis-of-the-factors-that-can-contribute-to-success-for-a-movie)
     - [Analysis for an Electric Store Sales in 2019](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#analysis-of-the-factors-that-can-contribute-to-success-for-a-movie)
-    - [Simple Mobile Game]
+    - [Simple Mobile Game](https://github.com/syukrifadzil/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#simple-mobile-game)
   - SQL
-    - [Covid-19 Data Exploration]
-    - [Nashville Housing Data Exploration]
+    - [Covid-19 Data Exploration](https://github.com/syukrifadzil/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#covid-19-data-exploration)
+    - [Nashville Housing Data Exploration](https://github.com/syukrifadzil/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#nashville-housing-data-exploration)
   - R
-    - [Legendary Pokémon Data Analysis]
+    - [Legendary Pokémon Data Analysis](https://github.com/syukrifadzil/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#nashville-housing-data-exploration)
   - Excel / Google Sheet
   - Tableau
 - [Education](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#education)
