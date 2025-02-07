@@ -14,7 +14,7 @@ This is a repository to showcase my skills, share projects and track my progress
 - [About](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#about-me)
 - [Portfolio Projects](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Analysis of the Factors that can Contribute to Success for a Movie]
+    - [Analysis of the Factors that can Contribute to Success for a Movie](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#analysis-of-the-factors-that-can-contribute-to-success-for-a-movie)
     - [Analysis for an Electric Store Sales in 2019]
     - [Simple Mobile Game]
   - SQL
