@@ -23,7 +23,7 @@ This is a repository to showcase my skills, share projects and track my progress
   - R
     - [Legendary Pokémon Data Analysis](https://github.com/syukrifadzil/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#nashville-housing-data-exploration)
   - Excel / Google Sheet
-  - [Tableau](https://public.tableau.com/app/profile/syukri.fadzil/viz/HRAnalyticsProject_17390470709240/HRSummary?publish=yes)
+  - [Tableau](https://public.tableau.com/app/profile/syukri.fadzil/viz/HRAnalyticsProject_17390475069910/HRSummary#1)
 - [Education](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#education)
 - [Certificates](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/syukrifadzil/Data-Analyst-Portfolio/blob/main/README.md#contacts)
