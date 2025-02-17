@@ -119,6 +119,8 @@ Jan 2018 - Aug 2020
 ## Certificates
 The most effective way to showcase skills is through hands-on work and sharing completed projects. However, certifications can also serve as indirect validation. Below is a list of the certifications I have, presented in reverse-chronological order with their completion dates in brackets:
 
+-[Google Advance Data Analytics Professional Certificate](https://coursera.org/share/ee301d3ca5f94c0282cf4820a196fa2e)
+
 -[IBM Data Analyst Professional Certificate](https://coursera.org/share/34d83e49664c886ce26994b35b93b9fb)
 
 -[Cisco Python Essential 1](https://www.credly.com/badges/458f33a7-daa0-4485-99f2-879534505c10/public_url)
